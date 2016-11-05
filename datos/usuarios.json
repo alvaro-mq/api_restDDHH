@@ -1,0 +1,64 @@
+{
+  "usuarios": [
+      {
+        "id": 0,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 1,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 2,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 3,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 4,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 5,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 6,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 7,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 8,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      },
+      {
+        "id": 9,
+        "nick": "Pepito",
+        "sexo": "M",
+        "nivel": 1
+      }
+    ]
+  }
